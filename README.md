@@ -10,8 +10,7 @@ A classic Simon Game implemented using HTML, CSS, and JavaScript. The game chall
 - Responsive design for a clean and centered layout.
 
 **Screenshots**
-![Simon Game Interface](Screenshots/.Home Page.png)
-
+![Simon Game Interface](Screenshots/Home Page.png)
 
 **How to Play**
 1. Press any key to start the game.
