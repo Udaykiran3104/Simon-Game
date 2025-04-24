@@ -10,6 +10,7 @@ A classic Simon Game implemented using HTML, CSS, and JavaScript. The game chall
 - Responsive design for a clean and centered layout.
 
 **Screenshots**
+
 ![Home Page](https://github.com/user-attachments/assets/dea44aaf-f4b3-41c8-83dd-a7c9dc4e34df)
 
 
