@@ -9,6 +9,10 @@ A classic Simon Game implemented using HTML, CSS, and JavaScript. The game chall
 - Game over screen with score display and option to restart.
 - Responsive design for a clean and centered layout.
 
+**Screenshots**
+![Simon Game Interface](Screenshots/.Home Page.png)
+
+
 **How to Play**
 1. Press any key to start the game.
 2. Watch and listen as the game flashes a sequence of colored buttons.
