@@ -25,7 +25,7 @@ A classic Simon Game implemented using HTML, CSS, and JavaScript. The game chall
    Open index.html in a web browser to play the game.
    
 **Technologies Used**
-HTML: For structuring the game interface.
-CSS: For styling the buttons, layout, and visual effects like flashes and clicks.
-JavaScript: For game logic, event handling, and sequence generation.
-Audio Files: For sound effects to enhance user experience.
+1. HTML: For structuring the game interface.
+2. CSS: For styling the buttons, layout, and visual effects like flashes and clicks.
+3. JavaScript: For game logic, event handling, and sequence generation.
+4. Audio Files: For sound effects to enhance user experience.
