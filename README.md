@@ -20,7 +20,7 @@ A classic Simon Game implemented using HTML, CSS, and JavaScript. The game chall
 
 **Installation**
 1. Clone the repository:
-   git clone https://github.com/your-username/simon-game.git
+   git clone https://github.com/Udaykiran3104/Simon-Game.git
 2. Navigate to the project directory:
    Open index.html in a web browser to play the game.
    
